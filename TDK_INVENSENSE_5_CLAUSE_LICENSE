@@ -1,21 +1,3 @@
-# TDK InvenSense 5 Clause License
-
-## Introduction
-
-The license is based on the BSD 3 Clause License "New" or "Revised" License.  
-It aims to give flexibility to customers, while also protecting TDK InvenSense's intellectual property and brand.
-
-## Details
-
-TDK InvenSense 5 Clause License is based on the BSD 3 Clause License "New" or "Revised" License, adding the following exceptions:
-
-* __redistribution of source code is allowed as long as original license text is included__
-* __reverse engineering, decompiling, modifying and/or disassembling of binaries is not allowed__
-* __you shall only target TDK InvenSense hardware with the software__
-
-## License text
-
-```
 TDK InvenSense 5 Clause License
 
 Copyright (c) <year> Invensense, Inc.
@@ -53,10 +35,3 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-```
-
-Complete license text is also available in file [TDK_INVENSENSE_5_CLAUSE_LICENSE](TDK_INVENSENSE_5_CLAUSE_LICENSE)
-
-## Contact
-
-For questions, please contact [inv-inv-scm@tdk.com](mailto:inv-inv-scm@tdk.com)
